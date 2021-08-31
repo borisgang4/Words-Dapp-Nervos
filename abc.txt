@@ -1,0 +1,2 @@
+Deployed contract address: 0x6933a1b12476A7fbfef565c1b8cc92ee5e14a2a8
+Deploy transaction hash: 0x7fe4235c3460aba9be6929535aeb712910d9582e3401b34427f2fe00103293fd
